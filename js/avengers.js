@@ -1,5 +1,4 @@
 //API
-var avengers = ['Tony Stark', 'Steve Rogers', 'Bruce Banner', 'Natasha Romanoff', 'Peter Parker', 'Scott Lang']
 
 function listaVingadores() {
 
